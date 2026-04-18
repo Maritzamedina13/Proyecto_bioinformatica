@@ -19,4 +19,4 @@ secuenciación 16S rRNA.
 3. Ejecutar `scripts/analysis.R`
 
 ## Licencia
-MIT
+GNU
