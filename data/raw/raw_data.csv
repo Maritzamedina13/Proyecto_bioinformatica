@@ -1,0 +1,6 @@
+sample_id,gene_expression,condition
+S1,10.5,control
+S2,12.3,treatment
+S3,9.8,control
+S4,11.2,treatment
+S5,10.9,control

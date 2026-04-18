@@ -1,0 +1,2 @@
+Placeholder for example figure.
+This file represents where a figure (e.g., PNG, PDF) would be saved after running the analysis script.
