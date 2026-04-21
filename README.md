@@ -1,4 +1,4 @@
-# MicrobiomeAnalysis.
+# MicrobiomeAnalysis
 
 ## Descripción
 Análisis de diversidad microbiana en muestras de suelo mediante
@@ -8,6 +8,7 @@ secuenciación 16S rRNA.
 - Comparar diversidad alfa entre muestras de distintos sitios.
 - Identificar OTUs diferencialmente abundantes.
 - Evaluar la influencia de variables ambientales registradas en la metadata.
+- Determinar la estructura de la comunidad microbiana y su agrupamiento entre muestras mediante análisis de diversidad.
 
 ## Estructura del repositorio
 - `data/` — datos crudos y procesados
