@@ -17,6 +17,7 @@ secuenciación 16S rRNA.
 1. Instalar dependencias: `install.packages(c("vegan","phyloseq"))`
 2. Ejecutar `scripts/preprocess.R`
 3. Ejecutar `scripts/analysis.R`
+4. implementar 'ejecutar script'
 
 ## Licencia
 GNU
